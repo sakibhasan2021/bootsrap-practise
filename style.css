@@ -1,0 +1,22 @@
+.offer{
+    color: crimson;
+}
+#headline{
+    color: coral;
+}
+#Womentag{
+    
+    color:brown;
+}
+#Menstag{
+    color:crimson;
+}
+.cloth-title{
+    color: darkcyan;
+}
+.first-top{
+    background-color: linear-gradient(grey,coral);
+}
+.last-part{
+    float: left;
+}
